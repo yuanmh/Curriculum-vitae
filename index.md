@@ -70,12 +70,12 @@
   <table class="table table-border table-bordered table-bg mt-20">
     <thead>
       <tr>
-        <th colspan="2" scope="col">服务器信息</th>
+        <th colspan="2" scope="col">服务信息</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th width="200">服务器计算机名</th>
+        <th width="200">页面名称</th>
         <td><span id="lbServerName">Github---个人主页</span></td>
       </tr>
       <tr>
