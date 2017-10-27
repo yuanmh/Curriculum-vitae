@@ -9,11 +9,11 @@
 <link href="public/css/external/H-ui.min.css" rel="stylesheet" type="text/css" />
 <link href="public/css/external/H-ui.admin.css" rel="stylesheet" type="text/css" />
 <link href="public/js/external/Hui-iconfont/1.0.7/iconfont.css" rel="stylesheet" type="text/css" />
-<title>我的桌面</title>
+
 </head>
 <body>
 <div class="pd-20" style="padding-top:20px;">
-  <p class="f-20 text-success">欢迎使用智眼管理中心</p>
+  <p class="f-20 text-success">欢迎访问个人主页</p>
   <p>登录次数：18 </p>
   <p>上次登录IP：222.35.131.79.1  上次登录时间：2014-6-14 11:19:55</p>
   <table class="table table-border table-bordered table-bg">
@@ -177,19 +177,7 @@
 </div>
 <footer class="footer">
 </footer>
-<script type="text/javascript" src="public/js/external/jquery.min.js"></script>
-<script type="text/javascript" src="public/js/external/H-ui.js"></script>
-<script>
-/* var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?080836300300be57b7f34f4b3e97d911";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F080836300300be57b7f34f4b3e97d911' type='text/javascript'%3E%3C/script%3E")); */
-</script>
+
 </body>
 </html>
 
