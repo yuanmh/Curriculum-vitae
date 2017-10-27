@@ -75,7 +75,7 @@
     </thead>
     <tbody>
       <tr>
-        <th width="200">页面名称</th>
+        <td>页面名称</td>
         <td><span id="lbServerName">Github---个人主页</span></td>
       </tr>
       <tr>
