@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 <head>
 <meta charset="utf-8">
@@ -13,7 +13,7 @@
 </head>
 <body>
 <div class="pd-20" style="padding-top:20px;">
-  <p class="f-20 text-success">欢迎访问个人主页</p>
+  <p class="f-20 text-success">欢迎访问个人主页</p><img src="../" alt="">
   <p>登录次数：18 </p>
   
   <table class="table table-border table-bordered table-bg">
