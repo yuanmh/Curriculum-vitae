@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+##欢迎访问个人主页
 
-You can use the [editor on GitHub](https://github.com/yuanmh/Curriculum-vitae/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+我们都不是很完美的人，但我们要接受不完美的自己。在孤独的时候，给自己安慰；在寂寞的时候，给自己温暖。学会独立，告别依赖，对软弱的自己说再见。生活不是只有温暖，人生的路不会永远平坦，但只要你对自己有信心，知道自己的价值，懂得珍惜自己，世界的一切不完美，你都可以坦然面对。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuanmh/Curriculum-vitae/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
